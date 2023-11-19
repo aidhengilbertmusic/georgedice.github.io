@@ -1,0 +1,19 @@
+.app {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #FBF7FB;
+  margin: 0;
+  padding: 0;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.upper {
+  background-color: #fff;
+}
+.lower {
+  padding-top: 50px;
+}
+.flex {
+  display: flex;
+  background-color: black;
+}
